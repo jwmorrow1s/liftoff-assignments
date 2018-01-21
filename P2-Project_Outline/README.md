@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-    My project will be a collaborative writing desktop application. A user will create a "lobby" where they can invite friends or random folks to write with them. There will be various "modes", but the primary mode will be that each person writes an arbitrary(set by the user who creates the lobby) number of characters. Once each person writes their set amount, it's the next person's turn to write. By the end, each person will be given the opportunity to save a local version of the story that was written, annotated by what was written by whom.
+My project will be a collaborative writing desktop application. A user will create a "lobby" where they can invite friends or random folks to write with them. There will be various "modes", but the primary mode will be that each person writes an arbitrary(set by the user who creates the lobby) number of characters. Once each person writes their set amount, it's the next person's turn to write. By the end, each person will be given the opportunity to save a local version of the story that was written, annotated by what was written by whom.
     
 ### Features
 User login- people will have profiles that show all the stories they've collaborated on, as well as highlight their specific submissions.
