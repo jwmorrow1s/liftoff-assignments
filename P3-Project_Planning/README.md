@@ -13,3 +13,7 @@ For this assignment, you'll create some initial plans for your project.
 ### Project Tracker
 
 Link to Pivotal Tracker: https://www.pivotaltracker.com/n/projects/2143622
+
+### Project Link
+
+Link to project: https://github.com/jwmorrow1s/capstone_project
