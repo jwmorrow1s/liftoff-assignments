@@ -13,3 +13,4 @@ https://github.com/jwmorrow1s
 https://www.linkedin.com/in/jeffwmorrow/
 
 ### Resume
+https://github.com/jwmorrow1s/liftoff-assignments/blob/master/C1-Online_Profiles/Morrow_Jeff_Resume_1-30-2018.pdf
