@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+https://github.com/jwmorrow1s/liftoff-assignments/blob/master/P6-Project_Presentation/CooperWrite_presentation.pdf
